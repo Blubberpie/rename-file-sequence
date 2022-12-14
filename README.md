@@ -1,8 +1,9 @@
 # Rename File Sequence
 A quick and dirty script for batch renaming file sequences.
 
-Timelapse photography produces hundreds of files, which when named properly
-in sequence, can be easily loaded into [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve#)
+Timelapse photography produces hundreds of files, which when named sequentially,
+can be easily loaded into [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve#)
+as a single image sequence.
 
 ## How it works
 ```
